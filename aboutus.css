@@ -1,0 +1,54 @@
+body {
+	font-family: 'Mouse Memoirs', sans-serif;
+	font-size: 23px;
+	background: #171717;
+	color: white;
+}
+
+h1 {
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	width: 300px;
+	height: auto;
+	margin: 0 auto;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+
+ul li {
+	float: left;
+	display: block;
+	width: 100px;
+	height: 80px;
+	line-height: 80px;
+	list-style: none;
+}
+
+ul li a {
+	text-decoration: none;
+	color: white;
+	float: left;
+	text-align: center;
+	width: 100px;
+}
+
+ul li:hover a {
+	text-decoration: underline;
+}
+
+.orta {
+	text-align: center;
+}
+
+.container2 {
+	width: 95%;
+	margin: 0 auto;
+}
